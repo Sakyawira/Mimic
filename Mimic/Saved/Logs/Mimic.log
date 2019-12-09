@@ -3714,3 +3714,984 @@ LogInit: Object subsystem initialized
 [2019.12.09-07.46.17:574][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
 [2019.12.09-07.46.17:649][949]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltDataBE4EBA5846C2E54908AECFB0251236AE.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
 [2019.12.09-07.46.42:720][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-07.55.14:374][696]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-07.56.18:106][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/Maps/Level0_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.09-07.56.18:325][ 64]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_Auto2383DC4AB4FE03B2DE13043BCF7750AFD.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/Maps/Level0_Auto2.umap'
+[2019.12.09-07.56.18:538][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level0' took 0.461
+[2019.12.09-07.56.18:538][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.461
+[2019.12.09-07.56.18:540][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Enviro/coin] ([1] browsable assets)...
+[2019.12.09-07.56.18:556][ 64]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Enviro/coin.coin]
+[2019.12.09-07.56.18:556][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Enviro/coin]
+[2019.12.09-07.56.18:617][ 64]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/coin_Auto245C340E2494B035CE3E4C4AD3C3B1547.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/TopDownBP/Assets/Enviro/coin_Auto2.uasset'
+[2019.12.09-07.56.18:619][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Enviro/initialShadingGroup] ([1] browsable assets)...
+[2019.12.09-07.56.18:634][ 64]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Enviro/initialShadingGroup.initialShadingGroup]
+[2019.12.09-07.56.18:634][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Enviro/initialShadingGroup]
+[2019.12.09-07.56.18:810][ 64]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/initialShadingGroup_Auto229918097413C268F6CF527A6DA12BB41.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/TopDownBP/Assets/Enviro/initialShadingGroup_Auto2.uasset'
+[2019.12.09-07.56.18:812][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Enviro/None1] ([1] browsable assets)...
+[2019.12.09-07.56.18:826][ 64]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Enviro/None1.None1]
+[2019.12.09-07.56.18:826][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Enviro/None1]
+[2019.12.09-07.56.18:973][ 64]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/None1_Auto23D12F8A9459EA138817EE29419BC025C.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/TopDownBP/Assets/Enviro/None1_Auto2.uasset'
+[2019.12.09-07.56.18:975][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Enviro/chest] ([1] browsable assets)...
+[2019.12.09-07.56.18:990][ 64]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Enviro/chest.chest]
+[2019.12.09-07.56.18:990][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Enviro/chest]
+[2019.12.09-07.56.19:098][ 64]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/chest_Auto233F76CEF4E25E22D9DD3AFA003944B64.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/TopDownBP/Assets/Enviro/chest_Auto2.uasset'
+[2019.12.09-07.56.19:100][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Enviro/initialShadingGroup1] ([1] browsable assets)...
+[2019.12.09-07.56.19:115][ 64]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Enviro/initialShadingGroup1.initialShadingGroup1]
+[2019.12.09-07.56.19:115][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Enviro/initialShadingGroup1]
+[2019.12.09-07.56.19:197][ 64]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/initialShadingGroup1_Auto2DAFB595D430E9405E4B837A636A29852.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/TopDownBP/Assets/Enviro/initialShadingGroup1_Auto2.uasset'
+[2019.12.09-07.56.19:199][ 64]LogFileHelpers: Auto-saving content packages took 0.659
+[2019.12.09-08.02.49:012][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (coin7)
+[2019.12.09-08.02.50:302][889]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-08.02.56:387][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (coin8)
+[2019.12.09-08.02.56:451][617]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-08.02.58:691][881]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-08.03.20:522][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-08.03.21:879][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-08.03.24:504][856]Cmd: TRANSACTION UNDO
+[2019.12.09-08.03.24:504][856]LogEditorTransaction: Undo Move Actors
+[2019.12.09-08.03.24:834][891]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-08.06.19:677][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/Maps/Level0_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.09-08.06.20:205][927]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_Auto33AF6C659463B46C1818981A710BD7A95.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/Maps/Level0_Auto3.umap'
+[2019.12.09-08.06.20:419][927]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level0' took 0.758
+[2019.12.09-08.06.20:419][927]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.758
+[2019.12.09-08.10.55:727][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (coin3)
+[2019.12.09-08.10.56:152][781]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-08.11.16:380][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-08.13.41:485][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-08.13.46:761][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (coin2)
+[2019.12.09-08.13.47:032][975]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-08.13.56:600][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-08.14.00:058][523]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-08.14.06:287][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chest)
+[2019.12.09-08.14.06:566][275]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-08.14.40:773][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-08.14.45:149][880]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-08.14.46:171][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x37)
+[2019.12.09-08.14.49:039][334]Cmd: TRANSACTION UNDO
+[2019.12.09-08.14.49:039][334]LogEditorTransaction: Undo Move Actors
+[2019.12.09-08.14.49:492][382]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-08.15.11:231][917]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-08.15.39:013][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-08.15.43:971][783]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-08.15.50:024][496]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-08.16.35:522][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/Maps/Level0_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.09-08.16.35:720][244]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_Auto40EA90AE449F88073F1AB5D9B0EE70AD7.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/Maps/Level0_Auto4.umap'
+[2019.12.09-08.16.35:978][244]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level0' took 0.475
+[2019.12.09-08.16.35:978][244]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.475
+[2019.12.09-08.16.53:759][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-08.16.54:896][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-08.20.02:141][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.08.24:601][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x47)
+[2019.12.09-09.08.24:947][  7]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-09.08.27:033][255]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.08.27:272][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x47)
+[2019.12.09-09.08.27:517][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x48)
+[2019.12.09-09.08.27:772][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x48)
+[2019.12.09-09.08.28:017][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x49)
+[2019.12.09-09.08.28:303][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x48)
+[2019.12.09-09.08.29:140][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x79)
+[2019.12.09-09.08.29:358][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x79)
+[2019.12.09-09.08.32:293][828]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.08.34:062][ 28]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.08.34:236][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-09.08.34:242][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-09.08.34:429][ 45]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0E00EC43746498A76A8D6138C2B736F23.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-09.08.34:735][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-09.08.34:865][ 45]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltData4428B19E41D8B4ED5D61E49BFBEDCB7E.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-09.10.54:155][637]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.10.54:517][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x18)
+[2019.12.09-09.10.54:946][725]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-09.10.56:238][873]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.11.04:265][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-09.11.04:270][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-09.11.04:429][829]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0974B0E2B49678BD9AF885BBDF65ABD43.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-09.11.04:723][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-09.11.04:853][829]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltDataCBBF7557448F62E77E6AD586F7FCED29.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-09.42.17:963][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x49)
+[2019.12.09-09.42.18:595][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x7)
+[2019.12.09-09.42.24:311][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x45)
+[2019.12.09-09.42.24:675][324]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-09.42.28:705][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x43)
+[2019.12.09-09.42.29:325][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (coin8)
+[2019.12.09-09.42.29:828][929]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-09.42.31:590][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x12)
+[2019.12.09-09.42.31:968][177]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-09.42.35:363][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x19)
+[2019.12.09-09.42.35:584][595]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-09.42.48:774][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chest)
+[2019.12.09-09.43.03:808][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.43.36:777][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x8)
+[2019.12.09-09.43.38:319][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x22)
+[2019.12.09-09.43.42:046][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.43.51:526][320]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.09-09.43.54:353][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.43.58:669][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.44.00:077][278]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.44.02:204][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.44.04:399][774]LogEditorActor: Deleted Actor: Brush
+[2019.12.09-09.44.04:967][774]LogEditorActor: Deleted 1 Actors (0.572 secs)
+[2019.12.09-09.44.07:214][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x2)
+[2019.12.09-09.44.08:081][117]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.44.08:771][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x19)
+[2019.12.09-09.44.09:873][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x18)
+[2019.12.09-09.44.22:703][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.44.30:879][648]Cmd: TRANSACTION UNDO
+[2019.12.09-09.44.30:879][648]LogEditorTransaction: Undo Move Actors
+[2019.12.09-09.44.30:900][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x20_107.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:901][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x41.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:901][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x3.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:901][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x12.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:902][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x14.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:903][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x19_99.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:903][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x43.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:903][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x71.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:904][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x73.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:904][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x83.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:905][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x85.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:905][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x48.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.30:906][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x5.StaticMeshComponent0) Component already registered.
+[2019.12.09-09.44.44:856][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x82)
+[2019.12.09-09.44.47:153][545]Cmd: TRANSACTION UNDO
+[2019.12.09-09.44.47:153][545]LogEditorTransaction: Undo Move Actors
+[2019.12.09-09.44.49:092][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x83)
+[2019.12.09-09.44.55:875][539]Cmd: DELETE
+[2019.12.09-09.44.55:875][539]Cmd: ACTOR DELETE
+[2019.12.09-09.44.55:878][539]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.09-09.44.55:895][539]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.12.09-09.44.57:466][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x85)
+[2019.12.09-09.44.59:554][932]Cmd: TRANSACTION UNDO
+[2019.12.09-09.44.59:554][932]LogEditorTransaction: Undo Move Actors
+[2019.12.09-09.45.02:357][254]Cmd: TRANSACTION UNDO
+[2019.12.09-09.45.02:357][254]LogEditorTransaction: Undo Move Actors
+[2019.12.09-09.45.05:370][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x84)
+[2019.12.09-09.45.16:751][956]Cmd: TRANSACTION UNDO
+[2019.12.09-09.45.16:751][956]LogEditorTransaction: Undo Move Actors
+[2019.12.09-09.45.16:995][973]Cmd: TRANSACTION UNDO
+[2019.12.09-09.45.16:995][973]LogEditorTransaction: Undo Move Actors
+[2019.12.09-09.45.17:198][987]Cmd: TRANSACTION UNDO
+[2019.12.09-09.45.17:199][987]LogEditorTransaction: Undo Scale Actors
+[2019.12.09-09.45.17:431][ 11]Cmd: TRANSACTION UNDO
+[2019.12.09-09.45.17:431][ 11]LogEditorTransaction: Undo Move Actors
+[2019.12.09-09.45.17:688][ 40]Cmd: TRANSACTION UNDO
+[2019.12.09-09.45.17:688][ 40]LogEditorTransaction: Undo Scale Actors
+[2019.12.09-09.45.17:966][ 72]Cmd: TRANSACTION UNDO
+[2019.12.09-09.45.17:966][ 72]LogEditorTransaction: Undo Move Actors
+[2019.12.09-09.45.18:377][120]Cmd: TRANSACTION UNDO
+[2019.12.09-09.45.18:377][120]LogEditorTransaction: Undo Scale Actors
+[2019.12.09-09.45.18:996][193]Cmd: TRANSACTION UNDO
+[2019.12.09-09.45.18:996][193]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-09.45.27:888][213]Cmd: TRANSACTION UNDO
+[2019.12.09-09.45.27:888][213]LogEditorTransaction: Undo Move Actors
+[2019.12.09-09.45.28:671][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x84)
+[2019.12.09-09.45.34:768][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x85)
+[2019.12.09-09.45.36:939][250]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.45.47:866][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.45.48:021][540]LogActorFactory: Actor Factory created 1M_Cube
+[2019.12.09-09.45.48:513][590]LogActorFactory: Actor Factory created 1M_Cube
+[2019.12.09-09.45.50:632][835]Cmd: DELETE
+[2019.12.09-09.45.50:632][835]Cmd: ACTOR DELETE
+[2019.12.09-09.45.50:634][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.09-09.45.50:652][835]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.12.09-09.45.52:383][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.46.01:210][ 34]LogActorFactory: Actor Factory created Cube
+[2019.12.09-09.46.02:185][146]LogActorFactory: Actor Factory created Cube
+[2019.12.09-09.46.10:926][174]Cmd: DELETE
+[2019.12.09-09.46.10:926][174]Cmd: ACTOR DELETE
+[2019.12.09-09.46.10:928][174]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.09-09.46.10:947][174]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.12.09-09.46.11:899][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.46.14:064][519]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.09-09.46.20:516][256]Cmd: TRANSACTION UNDO
+[2019.12.09-09.46.20:516][256]LogEditorTransaction: Undo Move Actors
+[2019.12.09-09.46.21:715][381]Cmd: EDCALLBACK SURFPROPS
+[2019.12.09-09.46.25:583][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.46.27:613][ 23]LogEditorActor: Deleted Actor: Brush
+[2019.12.09-09.46.27:630][ 23]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.12.09-09.46.30:117][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x84)
+[2019.12.09-09.46.36:165][ 21]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.46.37:128][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x85)
+[2019.12.09-09.46.38:804][296]Cmd: TRANSACTION UNDO
+[2019.12.09-09.46.38:804][296]LogEditorTransaction: Undo Move Actors
+[2019.12.09-09.46.39:978][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.47.08:895][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.47.09:881][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x84)
+[2019.12.09-09.47.11:456][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.47.13:615][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.47.16:533][587]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.47.26:802][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-09.47.26:807][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-09.47.26:971][804]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0CE05ABA045F540CE8BB802A55EEE5CAD.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-09.47.27:135][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-09.47.27:238][804]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltDataBBC8FF854101CB4E483DE086C6A0809C.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-09.48.27:569][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x37)
+[2019.12.09-09.48.27:938][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x18)
+[2019.12.09-09.48.28:282][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x19)
+[2019.12.09-09.48.30:610][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x37)
+[2019.12.09-09.48.30:933][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x18)
+[2019.12.09-09.48.31:287][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x19)
+[2019.12.09-09.48.31:711][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x37)
+[2019.12.09-09.48.32:019][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x18)
+[2019.12.09-09.48.32:373][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x19)
+[2019.12.09-09.48.32:745][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x37)
+[2019.12.09-09.48.33:018][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x18)
+[2019.12.09-09.48.33:296][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x19)
+[2019.12.09-09.48.33:697][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x37)
+[2019.12.09-09.48.34:339][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x18)
+[2019.12.09-09.48.34:572][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x19)
+[2019.12.09-09.48.34:853][637]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.49.02:855][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x18)
+[2019.12.09-09.49.56:091][285]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.49.56:444][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-09.49.56:450][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-09.49.56:912][321]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level031A3A61E4731C0B91C0C6EA1BD85F82A.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-09.49.57:242][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-09.49.57:356][321]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltDataC315CC5242AC27E15BBE2CA6A736E058.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-09.50.02:878][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.50.02:952][972]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-09.50.03:489][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-09.50.03:489][972]PIE: New page: PIE session: Level0 (10/12/2019 11:50:03 am)
+[2019.12.09-09.50.03:489][972]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.12.09-09.50.03:496][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006945s)
+[2019.12.09-09.50.03:498][972]LogAIModule: Creating AISystem for world Level0
+[2019.12.09-09.50.03:498][972]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2019.12.09-09.50.03:499][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.009136s)
+[2019.12.09-09.50.03:534][972]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-09.50.03:567][972]LogInit: FAudioDevice initialized.
+[2019.12.09-09.50.03:599][972]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.09-09.50.03:602][972]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 0) at 2019.12.09-22.50.03
+[2019.12.09-09.50.03:603][972]LogWorld: Bringing up level for play took: 0.002582
+[2019.12.09-09.50.03:619][972]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 -0.591
+[2019.12.09-09.50.12:474][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-09.50.12:558][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-09.50.12:592][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-09.50.12:612][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-09.50.12:662][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.09-09.50.15:026][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1)
+[2019.12.09-09.50.15:208][340]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-09.50.36:040][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x3)
+[2019.12.09-09.50.36:654][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x4)
+[2019.12.09-09.50.37:339][950]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-09.50.44:467][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x2)
+[2019.12.09-09.50.44:980][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1)
+[2019.12.09-09.50.45:372][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x3)
+[2019.12.09-09.50.49:935][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chest)
+[2019.12.09-09.50.50:120][445]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-09.51.11:863][ 40]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-09.51.43:612][833]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.51.45:021][988]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-09.51.45:414][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-09.51.45:420][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-09.51.45:849][ 31]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0BA9D4E1046EAEC75D9DCA8A15E48BEC5.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-09.51.46:157][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-09.51.46:273][ 31]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltDataA132C1A342ACC01E71BF75BF49388E22.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-10.08.47:417][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.08.59:633][624]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.09.00:667][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-10.09.02:914][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x24)
+[2019.12.09-10.09.04:812][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-10.09.45:858][920]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\-- Personal\--- Mimic\3d assets\pillars/pillarmid.fbx)
+[2019.12.09-10.09.45:867][920]LogFbx: Loading FBX Scene from F:\-- Personal\--- Mimic\3d assets\pillars/pillarmid.fbx
+[2019.12.09-10.09.45:872][920]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.09-10.09.45:898][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.10.02:901][920]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.09-10.10.03:017][920]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.12.09-10.10.03:033][920]LogFbx: Warning: Triangulating static mesh pCube13
+[2019.12.09-10.10.03:043][920]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.12.09-10.10.03:043][920]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.12.09-10.10.03:043][920]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.12.09-10.10.03:045][920]LogStaticMesh: Building static mesh pillarmid...
+[2019.12.09-10.10.03:050][920]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Enviro/pillars/pillarmid.pillarmid
+[2019.12.09-10.10.03:052][920]LogStaticMesh: Warning: pillarmid has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.09-10.10.03:052][920]LogStaticMesh: Warning: pillarmid has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.09-10.10.03:079][920]FBXImport: Warning: pillarmid has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.09-10.10.03:080][920]FBXImport: Warning: pillarmid has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.09-10.10.03:113][920]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\-- Personal\--- Mimic\3d assets\pillars/pillarsmall.fbx)
+[2019.12.09-10.10.06:386][920]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.09-10.10.06:425][920]LogFbx: Loading FBX Scene from F:\-- Personal\--- Mimic\3d assets\pillars/pillarsmall.fbx
+[2019.12.09-10.10.06:430][920]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.09-10.10.06:433][920]LogFbx: Warning: Triangulating static mesh pCube14
+[2019.12.09-10.10.06:443][920]LogStaticMesh: Building static mesh pillarsmall...
+[2019.12.09-10.10.06:447][920]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Enviro/pillars/pillarsmall.pillarsmall
+[2019.12.09-10.10.06:448][920]LogStaticMesh: Warning: pillarsmall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.09-10.10.06:448][920]LogStaticMesh: Warning: pillarsmall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.09-10.10.06:506][920]FBXImport: Warning: pillarsmall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.09-10.10.06:507][920]FBXImport: Warning: pillarsmall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.09-10.10.06:515][920]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\-- Personal\--- Mimic\3d assets\pillars/pillartall.fbx)
+[2019.12.09-10.10.07:584][920]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.09-10.10.07:619][920]LogFbx: Loading FBX Scene from F:\-- Personal\--- Mimic\3d assets\pillars/pillartall.fbx
+[2019.12.09-10.10.07:624][920]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.09-10.10.07:626][920]LogFbx: Warning: Triangulating static mesh pCube15
+[2019.12.09-10.10.07:638][920]LogStaticMesh: Building static mesh pillartall...
+[2019.12.09-10.10.07:644][920]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Enviro/pillars/pillartall.pillartall
+[2019.12.09-10.10.07:645][920]LogStaticMesh: Warning: pillartall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.09-10.10.07:645][920]LogStaticMesh: Warning: pillartall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.09-10.10.07:694][920]FBXImport: Warning: pillartall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.09-10.10.07:694][920]FBXImport: Warning: pillartall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.09-10.10.10:780][262]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level0' took 0.018
+[2019.12.09-10.10.10:782][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Enviro/pillars/pillarmid] ([1] browsable assets)...
+[2019.12.09-10.10.10:792][262]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Enviro/pillars/pillarmid.pillarmid]
+[2019.12.09-10.10.10:792][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Enviro/pillars/pillarmid]
+[2019.12.09-10.10.10:881][262]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/pillarmid_Auto506E7F5B3448A7CC9403B1DA2A5E98B0B.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/TopDownBP/Assets/Enviro/pillars/pillarmid_Auto5.uasset'
+[2019.12.09-10.10.10:882][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Enviro/pillars/lambert1] ([1] browsable assets)...
+[2019.12.09-10.10.10:891][262]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Enviro/pillars/lambert1.lambert1]
+[2019.12.09-10.10.10:891][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Enviro/pillars/lambert1]
+[2019.12.09-10.10.10:978][262]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/lambert1_Auto59C311D9E4D37051E3AB67D9234704A65.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/TopDownBP/Assets/Enviro/pillars/lambert1_Auto5.uasset'
+[2019.12.09-10.10.10:979][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Enviro/pillars/pillarsmall] ([1] browsable assets)...
+[2019.12.09-10.10.10:989][262]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Enviro/pillars/pillarsmall.pillarsmall]
+[2019.12.09-10.10.10:989][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Enviro/pillars/pillarsmall]
+[2019.12.09-10.10.11:096][262]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/pillarsmall_Auto5118543C6418E8FF6ED945ABC285B383B.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/TopDownBP/Assets/Enviro/pillars/pillarsmall_Auto5.uasset'
+[2019.12.09-10.10.11:098][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Enviro/pillars/pillartall] ([1] browsable assets)...
+[2019.12.09-10.10.11:107][262]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Enviro/pillars/pillartall.pillartall]
+[2019.12.09-10.10.11:107][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Enviro/pillars/pillartall]
+[2019.12.09-10.10.11:213][262]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/pillartall_Auto57839C051468F39748BBE8CA2A818F356.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Autosaves/Game/TopDownBP/Assets/Enviro/pillars/pillartall_Auto5.uasset'
+[2019.12.09-10.10.11:214][262]LogFileHelpers: Auto-saving content packages took 0.433
+[2019.12.09-10.10.15:976][832]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-10.10.15:983][832]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-10.10.19:393][156]LogActorFactory: Actor Factory created pillarmid
+[2019.12.09-10.10.19:393][156]LogActorFactory: Actor Factory created pillarsmall
+[2019.12.09-10.10.19:394][156]LogActorFactory: Actor Factory created pillartall
+[2019.12.09-10.10.20:873][321]LogActorFactory: Actor Factory created pillarmid
+[2019.12.09-10.10.20:888][321]LogActorFactory: Actor Factory created pillarsmall
+[2019.12.09-10.10.20:911][321]LogActorFactory: Actor Factory created pillartall
+[2019.12.09-10.10.30:136][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x37)
+[2019.12.09-10.10.31:193][490]Cmd: DELETE
+[2019.12.09-10.10.31:193][490]Cmd: ACTOR DELETE
+[2019.12.09-10.10.31:195][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.09-10.10.31:212][490]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.12.09-10.10.31:826][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x18)
+[2019.12.09-10.10.32:025][583]Cmd: DELETE
+[2019.12.09-10.10.32:025][583]Cmd: ACTOR DELETE
+[2019.12.09-10.10.32:027][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.09-10.10.32:045][583]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.12.09-10.10.32:364][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x19)
+[2019.12.09-10.10.32:467][629]Cmd: DELETE
+[2019.12.09-10.10.32:467][629]Cmd: ACTOR DELETE
+[2019.12.09-10.10.32:469][629]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.09-10.10.32:486][629]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.12.09-10.10.33:109][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillartall)
+[2019.12.09-10.10.35:591][995]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.10.36:082][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarmid)
+[2019.12.09-10.10.38:885][381]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.11.26:251][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarsmall)
+[2019.12.09-10.11.31:005][241]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.11.33:417][523]Cmd: TRANSACTION UNDO
+[2019.12.09-10.11.33:417][523]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.11.33:731][540]Cmd: TRANSACTION UNDO
+[2019.12.09-10.11.33:731][540]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.11.34:153][582]Cmd: TRANSACTION UNDO
+[2019.12.09-10.11.34:153][582]LogEditorTransaction: Undo Rotate Actors
+[2019.12.09-10.11.37:546][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x6)
+[2019.12.09-10.11.41:401][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (coin3)
+[2019.12.09-10.11.45:685][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (coin)
+[2019.12.09-10.11.59:837][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.11.59:843][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-10.12.00:055][504]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0EDC808FD4E6D08D6E4081992549AB51A.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-10.12.00:447][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-10.12.00:568][504]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltData01A6A099487CEC0465F2E098E5D3485C.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-10.12.17:997][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillartall)
+[2019.12.09-10.12.22:117][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.12.22:899][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.12.22:906][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-10.12.23:058][138]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0490BC6B243206B3EDDB1AF9EA2BA6E88.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-10.12.23:216][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-10.12.23:310][138]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltDataC01BE46543CE1FC707027D816BF94BC0.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-10.12.36:239][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarmid)
+[2019.12.09-10.12.36:427][704]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.12.49:319][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x26)
+[2019.12.09-10.12.49:787][279]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (1x26)
+[2019.12.09-10.12.49:820][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.12.50:156][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x24)
+[2019.12.09-10.12.50:504][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x23)
+[2019.12.09-10.12.51:972][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x49)
+[2019.12.09-10.12.52:249][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x45)
+[2019.12.09-10.12.59:875][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x5)
+[2019.12.09-10.13.02:531][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x6)
+[2019.12.09-10.13.02:774][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x7)
+[2019.12.09-10.13.22:708][385]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.13.45:840][146]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.13.45:845][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-10.13.46:273][146]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level04402CFBA41908EA6470357ACE586DC88.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-10.13.46:623][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-10.13.46:706][146]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltData1C4C7CA946071619081555BB9A17ACFE.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-10.13.51:584][709]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.13.53:146][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.13.53:153][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/1x1" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/1x1.uasset" SILENT=true
+[2019.12.09-10.13.53:210][883]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/1x1C24F81A74E178EEC8FFA639D6CF178A2.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/1x1.uasset'
+[2019.12.09-10.13.53:223][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/lambert1" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/lambert1.uasset" SILENT=true
+[2019.12.09-10.13.53:328][883]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/lambert18D2AE2904643D54DE8F307838C21DFE3.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/lambert1.uasset'
+[2019.12.09-10.13.53:340][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/coin" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/coin.uasset" SILENT=true
+[2019.12.09-10.13.53:453][883]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/coinE9814BBA48FC364B9066D283EB1AEBA2.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/coin.uasset'
+[2019.12.09-10.13.53:541][883]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/initialShadingGroup997175AF4FE32294ABDD17957FAC6DEC.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/initialShadingGroup.uasset'
+[2019.12.09-10.13.53:555][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/None1" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/None1.uasset" SILENT=true
+[2019.12.09-10.13.53:651][883]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/None150E863FC4D62A8E0878A96B1EE292D85.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/None1.uasset'
+[2019.12.09-10.13.53:663][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/chest" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/chest.uasset" SILENT=true
+[2019.12.09-10.13.53:767][883]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/chestDE466FD74130E7A9A85CF5891EAEBF96.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/chest.uasset'
+[2019.12.09-10.13.53:882][883]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/initialShadingGroup1D3A1EB7F415F370B6AFC5D96B52BB77A.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/initialShadingGroup1.uasset'
+[2019.12.09-10.13.53:896][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/pillars/pillarmid" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/pillarmid.uasset" SILENT=true
+[2019.12.09-10.13.54:010][883]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/pillarmid7BD748284FFBF47CB2F317BDBB6FB997.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/pillarmid.uasset'
+[2019.12.09-10.13.54:022][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/pillars/lambert1" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/lambert1.uasset" SILENT=true
+[2019.12.09-10.13.54:116][883]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/lambert14BAD24574EC072DEB07F3598F51E41D9.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/lambert1.uasset'
+[2019.12.09-10.13.54:209][883]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/pillarsmallA58ED36546A18F90251C248ABF43FFE0.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/pillarsmall.uasset'
+[2019.12.09-10.13.54:318][883]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/pillartall1F0B6A334CD5F8C1510D2380C747927A.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/pillartall.uasset'
+[2019.12.09-10.14.01:861][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x2)
+[2019.12.09-10.14.02:511][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x17)
+[2019.12.09-10.14.02:853][887]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.14.14:872][308]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.14.53:447][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillartall)
+[2019.12.09-10.15.02:995][996]Cmd: TRANSACTION UNDO
+[2019.12.09-10.15.02:995][996]LogEditorTransaction: Undo Rotate Actors
+[2019.12.09-10.15.03:285][ 23]Cmd: TRANSACTION UNDO
+[2019.12.09-10.15.03:285][ 23]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.15.05:269][253]Cmd: TRANSACTION UNDO
+[2019.12.09-10.15.05:269][253]LogEditorTransaction: Undo Rotate Actors
+[2019.12.09-10.15.05:793][313]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.15.06:818][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.15.11:923][ 26]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.15.11:953][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.15.12:506][ 91]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.15.14:420][310]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.15.14:427][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-10.15.14:579][310]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0A942730B44730613DDC0DE96BBA85169.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-10.15.14:940][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-10.15.15:057][310]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltDataEFD368064DF57BD47E5C3A92E87E857E.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-10.15.53:366][881]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.15.56:630][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.15.56:636][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-10.15.56:817][264]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0C8EC89EF479A313069170490ECF8CF2A.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-10.15.57:137][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-10.15.57:381][264]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltData41C85CDC492364477C1D02BFD74BE906.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-10.17.00:393][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x48)
+[2019.12.09-10.17.00:691][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x24)
+[2019.12.09-10.17.01:064][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x23)
+[2019.12.09-10.17.01:328][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x22)
+[2019.12.09-10.17.01:624][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x21)
+[2019.12.09-10.17.02:009][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x26)
+[2019.12.09-10.17.02:466][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x24)
+[2019.12.09-10.17.02:752][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x23)
+[2019.12.09-10.17.03:027][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x22)
+[2019.12.09-10.17.03:295][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x21)
+[2019.12.09-10.17.03:642][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x26)
+[2019.12.09-10.17.04:069][545]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.17.04:342][573]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.17.05:144][667]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.17.26:693][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x26)
+[2019.12.09-10.17.26:931][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x24)
+[2019.12.09-10.17.27:190][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x22)
+[2019.12.09-10.17.27:439][779]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.17.56:200][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarsmall)
+[2019.12.09-10.17.56:260][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarmid)
+[2019.12.09-10.17.56:767][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillartall)
+[2019.12.09-10.17.58:098][647]Cmd: TRANSACTION UNDO
+[2019.12.09-10.17.58:098][647]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.17.58:386][671]Cmd: TRANSACTION UNDO
+[2019.12.09-10.17.58:386][671]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.17.58:716][701]Cmd: TRANSACTION UNDO
+[2019.12.09-10.17.58:716][701]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.18.04:441][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x17)
+[2019.12.09-10.18.04:737][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.18.05:393][267]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.18.05:740][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillartall)
+[2019.12.09-10.18.05:977][327]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.18.06:648][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarmid)
+[2019.12.09-10.18.06:881][430]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.18.07:455][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarsmall)
+[2019.12.09-10.18.07:599][501]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.18.08:295][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarmid)
+[2019.12.09-10.18.08:393][581]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.18.08:961][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillartall)
+[2019.12.09-10.18.09:154][666]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.18.31:055][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.18.31:060][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-10.18.31:559][275]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0B79FDEAF464F4D2A061E86AF24C3E17E.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-10.18.31:855][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-10.18.32:026][275]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltData39D4DF5143B618285325DAB450C4F61D.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-10.18.35:487][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-10.18.57:933][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarsmall)
+[2019.12.09-10.18.58:058][987]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.19.04:998][719]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.19.05:285][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillartall)
+[2019.12.09-10.19.42:411][824]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.19.52:481][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x17)
+[2019.12.09-10.19.52:721][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarmid)
+[2019.12.09-10.19.53:054][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x17)
+[2019.12.09-10.20.01:098][  5]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.20.01:422][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x24)
+[2019.12.09-10.20.01:856][ 74]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.20.02:622][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x49)
+[2019.12.09-10.20.02:952][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.20.03:372][244]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.20.03:654][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x48)
+[2019.12.09-10.20.07:464][634]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.20.11:919][148]Cmd: TRANSACTION UNDO
+[2019.12.09-10.20.11:919][148]LogEditorTransaction: Undo Scale Actors
+[2019.12.09-10.20.11:923][148]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x46.StaticMeshComponent0) Component already registered.
+[2019.12.09-10.20.12:152][172]Cmd: TRANSACTION UNDO
+[2019.12.09-10.20.12:152][172]LogEditorTransaction: Undo Scale Actors
+[2019.12.09-10.20.12:155][172]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x46.StaticMeshComponent0) Component already registered.
+[2019.12.09-10.20.22:138][343]Cmd: TRANSACTION UNDO
+[2019.12.09-10.20.22:138][343]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.20.22:142][343]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x46.StaticMeshComponent0) Component already registered.
+[2019.12.09-10.20.22:354][365]Cmd: TRANSACTION UNDO
+[2019.12.09-10.20.22:354][365]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.20.22:358][365]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x46.StaticMeshComponent0) Component already registered.
+[2019.12.09-10.20.22:627][390]Cmd: TRANSACTION UNDO
+[2019.12.09-10.20.22:627][390]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.20.22:630][390]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x46.StaticMeshComponent0) Component already registered.
+[2019.12.09-10.20.22:958][428]Cmd: TRANSACTION UNDO
+[2019.12.09-10.20.22:958][428]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.20.22:962][428]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x46.StaticMeshComponent0) Component already registered.
+[2019.12.09-10.20.23:334][472]Cmd: TRANSACTION UNDO
+[2019.12.09-10.20.23:334][472]LogEditorTransaction: Undo Scale Actors
+[2019.12.09-10.20.23:337][472]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level0.Level0:PersistentLevel.1x46.StaticMeshComponent0) Component already registered.
+[2019.12.09-10.20.23:812][528]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.20.42:632][769]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.20.43:387][852]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.21.46:951][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chest)
+[2019.12.09-10.21.47:120][477]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.21.48:401][618]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.22.03:626][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chest)
+[2019.12.09-10.22.03:705][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.22.18:783][197]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.22.41:479][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (coin8)
+[2019.12.09-10.22.41:624][913]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.22.43:309][113]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.22.46:403][481]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.22.47:504][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (coin7)
+[2019.12.09-10.22.48:068][603]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-10.22.53:317][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x26)
+[2019.12.09-10.22.53:685][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x48)
+[2019.12.09-10.22.55:033][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x49)
+[2019.12.09-10.22.57:386][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x45)
+[2019.12.09-10.22.57:734][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x7)
+[2019.12.09-10.22.58:290][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x5)
+[2019.12.09-10.23.01:607][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x4)
+[2019.12.09-10.23.04:326][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x42)
+[2019.12.09-10.23.07:234][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x10)
+[2019.12.09-10.23.08:774][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x60)
+[2019.12.09-10.23.10:076][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x41)
+[2019.12.09-10.23.10:600][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x9)
+[2019.12.09-10.23.11:116][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x8)
+[2019.12.09-10.23.12:964][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x2)
+[2019.12.09-10.23.14:532][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x4)
+[2019.12.09-10.23.17:409][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1)
+[2019.12.09-10.23.19:143][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x3)
+[2019.12.09-10.23.19:969][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x47)
+[2019.12.09-10.23.20:757][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x44)
+[2019.12.09-10.23.25:663][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x5)
+[2019.12.09-10.23.27:725][112]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.23.28:838][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x44)
+[2019.12.09-10.23.31:496][530]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.23.32:601][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x44)
+[2019.12.09-10.23.36:282][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.23.40:373][543]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.40:373][543]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.40:634][559]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.40:634][559]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.40:895][577]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.40:895][577]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.41:115][600]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.41:115][600]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.41:337][623]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.41:337][623]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.41:563][649]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.41:563][649]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.41:796][674]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.41:796][674]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.42:020][697]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.42:020][697]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.42:263][725]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.42:264][725]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.42:481][747]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.42:481][747]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.42:725][775]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.42:725][775]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.42:971][800]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.42:971][800]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.43:212][825]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.43:212][825]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.43:465][852]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.43:465][852]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.43:715][881]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.43:715][881]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.43:975][908]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.43:975][908]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.44:210][935]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.44:211][935]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.44:493][968]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.44:493][968]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.44:753][995]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.44:753][995]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.45:030][ 27]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.45:030][ 27]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.45:307][ 56]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.45:307][ 56]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.45:576][ 87]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.45:576][ 87]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.45:856][116]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.45:856][116]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.46:136][146]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.46:136][146]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.46:437][179]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.46:437][179]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.46:723][212]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.46:723][212]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.46:975][238]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.46:975][238]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.47:233][268]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.47:233][268]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.47:495][295]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.47:495][295]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.47:753][325]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.47:753][325]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.48:045][356]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.48:045][356]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.48:287][384]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.48:287][384]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.48:552][415]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.48:552][415]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.48:828][444]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.48:828][444]LogEditorTransaction: Undo Move Actors
+[2019.12.09-10.23.49:096][475]Cmd: TRANSACTION UNDO
+[2019.12.09-10.23.49:096][475]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.09-10.23.50:083][581]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.23.54:363][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.23.54:368][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-10.23.54:546][914]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0A679148A4EE892A74718AA95B5FFA1EA.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-10.23.54:709][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-10.23.54:802][914]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltDataAB372E6A49FB31247D5318854D1EDAA0.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-10.23.59:233][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarsmall)
+[2019.12.09-10.23.59:847][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillarmid)
+[2019.12.09-10.24.00:206][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillartall)
+[2019.12.09-10.24.00:925][607]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.24.49:890][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-10.24.59:325][301]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.25.07:383][742]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.09-10.25.07:704][777]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-10.25.07:708][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-10.25.08:149][777]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level016E5D6304CCE11771DD25A9F5D9A69B2.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0.umap'
+[2019.12.09-10.25.08:417][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level0_BuiltData" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset" SILENT=true
+[2019.12.09-10.25.08:528][777]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/Level0_BuiltData162DBC6C4BD566480BF91F8BCCFD91CF.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/Maps/Level0_BuiltData.uasset'
+[2019.12.09-10.25.09:020][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-10.25.09:799][838]LogSlate: Window 'Mimic - Unreal Editor' being destroyed
+[2019.12.09-10.25.09:801][838]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-10.25.10:232][839]Cmd: QUIT_EDITOR
+[2019.12.09-10.25.10:658][839]LogExit: Preparing to exit.
+[2019.12.09-10.25.11:383][839]LogExit: Editor shut down
+[2019.12.09-10.25.11:384][839]LogExit: Transaction tracking system shut down
+[2019.12.09-10.25.13:958][839]LogExit: Object subsystem successfully closed.
+[2019.12.09-10.25.14:099][839]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.09-10.25.14:117][839]LogD3D11RHI: Shutdown
+[2019.12.09-10.25.14:117][839]LogD3D11RHI: CleanupD3DDevice
+[2019.12.09-10.25.14:152][839]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.09-10.25.15:410][839]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (620)
+[2019.12.09-10.25.15:410][839]LogModuleManager: Shutting down and abandoning module Voice (618)
+[2019.12.09-10.25.15:426][839]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (616)
+[2019.12.09-10.25.15:434][839]LogModuleManager: Shutting down and abandoning module NewLevelDialog (614)
+[2019.12.09-10.25.15:434][839]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2019.12.09-10.25.15:434][839]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.12.09-10.25.15:434][839]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.12.09-10.25.15:434][839]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.12.09-10.25.15:452][839]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.12.09-10.25.15:452][839]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.12.09-10.25.15:452][839]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.12.09-10.25.15:489][839]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.12.09-10.25.15:501][839]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.12.09-10.25.15:502][839]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.12.09-10.25.15:523][839]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.12.09-10.25.15:523][839]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.12.09-10.25.15:523][839]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.12.09-10.25.15:523][839]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.12.09-10.25.15:523][839]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.12.09-10.25.15:523][839]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.12.09-10.25.15:523][839]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.12.09-10.25.15:531][839]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.12.09-10.25.15:547][839]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.12.09-10.25.15:547][839]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.12.09-10.25.15:547][839]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.12.09-10.25.15:548][839]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.12.09-10.25.15:548][839]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.12.09-10.25.15:567][839]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.12.09-10.25.15:567][839]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.12.09-10.25.15:567][839]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.12.09-10.25.15:567][839]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.12.09-10.25.15:567][839]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.12.09-10.25.15:578][839]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.12.09-10.25.15:578][839]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.12.09-10.25.15:578][839]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.12.09-10.25.15:578][839]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.12.09-10.25.15:578][839]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.12.09-10.25.15:578][839]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.12.09-10.25.15:578][839]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.12.09-10.25.15:578][839]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.12.09-10.25.15:579][839]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.12.09-10.25.15:579][839]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.12.09-10.25.15:579][839]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.12.09-10.25.15:579][839]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.12.09-10.25.15:579][839]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.12.09-10.25.15:579][839]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.12.09-10.25.15:579][839]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.12.09-10.25.15:579][839]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.12.09-10.25.15:611][839]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.12.09-10.25.15:648][839]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.12.09-10.25.15:663][839]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.12.09-10.25.15:695][839]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.12.09-10.25.15:702][839]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.12.09-10.25.15:702][839]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.12.09-10.25.15:717][839]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.12.09-10.25.15:717][839]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.12.09-10.25.15:717][839]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.12.09-10.25.17:153][839]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.12.09-10.25.17:153][839]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.12.09-10.25.17:153][839]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.12.09-10.25.17:153][839]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.12.09-10.25.17:153][839]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.12.09-10.25.17:192][839]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.12.09-10.25.17:213][839]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.12.09-10.25.17:228][839]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.12.09-10.25.17:235][839]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.12.09-10.25.17:235][839]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.12.09-10.25.17:235][839]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.12.09-10.25.17:243][839]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.12.09-10.25.17:243][839]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.12.09-10.25.17:259][839]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.12.09-10.25.17:259][839]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.12.09-10.25.17:260][839]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.12.09-10.25.17:260][839]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.12.09-10.25.17:304][839]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.12.09-10.25.17:321][839]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.12.09-10.25.17:335][839]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.12.09-10.25.17:344][839]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.12.09-10.25.17:360][839]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.12.09-10.25.17:413][839]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.12.09-10.25.17:435][839]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.12.09-10.25.17:459][839]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.12.09-10.25.17:482][839]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.12.09-10.25.17:482][839]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.12.09-10.25.17:482][839]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.12.09-10.25.17:482][839]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.12.09-10.25.17:508][839]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.12.09-10.25.17:508][839]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.12.09-10.25.17:517][839]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.12.09-10.25.17:553][839]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.12.09-10.25.17:553][839]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.12.09-10.25.17:557][839]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.12.09-10.25.17:557][839]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.12.09-10.25.17:564][839]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.12.09-10.25.17:573][839]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.12.09-10.25.17:573][839]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.12.09-10.25.17:583][839]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.12.09-10.25.17:584][839]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.12.09-10.25.17:584][839]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.12.09-10.25.17:610][839]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.12.09-10.25.17:615][839]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.12.09-10.25.17:616][839]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.12.09-10.25.17:616][839]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.12.09-10.25.17:616][839]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.12.09-10.25.17:616][839]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.12.09-10.25.17:616][839]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.12.09-10.25.17:624][839]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.12.09-10.25.17:638][839]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.12.09-10.25.17:650][839]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.12.09-10.25.17:650][839]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.12.09-10.25.17:650][839]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.12.09-10.25.17:841][839]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.12.09-10.25.17:859][839]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.12.09-10.25.17:859][839]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.12.09-10.25.17:859][839]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.12.09-10.25.17:869][839]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.12.09-10.25.17:869][839]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.12.09-10.25.17:869][839]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.12.09-10.25.17:882][839]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.12.09-10.25.17:882][839]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.12.09-10.25.17:882][839]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.12.09-10.25.17:882][839]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.12.09-10.25.17:882][839]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.12.09-10.25.17:882][839]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.12.09-10.25.17:882][839]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.12.09-10.25.17:913][839]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.12.09-10.25.17:913][839]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.12.09-10.25.17:913][839]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.12.09-10.25.17:913][839]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.12.09-10.25.17:923][839]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.12.09-10.25.17:923][839]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.12.09-10.25.17:923][839]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.12.09-10.25.17:923][839]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.12.09-10.25.17:929][839]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.12.09-10.25.17:929][839]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.12.09-10.25.17:929][839]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.12.09-10.25.17:930][839]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.12.09-10.25.17:930][839]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.12.09-10.25.17:930][839]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.12.09-10.25.17:930][839]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.12.09-10.25.17:938][839]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.12.09-10.25.17:938][839]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.12.09-10.25.17:939][839]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.12.09-10.25.17:977][839]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.12.09-10.25.17:992][839]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.12.09-10.25.17:992][839]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.12.09-10.25.18:005][839]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.12.09-10.25.18:024][839]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.12.09-10.25.18:024][839]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.12.09-10.25.18:024][839]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.12.09-10.25.18:024][839]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.12.09-10.25.18:024][839]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.12.09-10.25.18:053][839]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.12.09-10.25.18:091][839]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.12.09-10.25.18:110][839]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.12.09-10.25.18:127][839]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.12.09-10.25.18:127][839]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.12.09-10.25.18:127][839]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.12.09-10.25.18:127][839]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.12.09-10.25.18:127][839]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.12.09-10.25.18:140][839]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.12.09-10.25.18:151][839]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.12.09-10.25.18:151][839]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.12.09-10.25.18:151][839]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.12.09-10.25.18:151][839]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.12.09-10.25.18:166][839]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.12.09-10.25.18:166][839]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.12.09-10.25.18:166][839]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.12.09-10.25.18:170][839]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.12.09-10.25.18:170][839]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.12.09-10.25.18:271][839]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.12.09-10.25.18:388][839]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.12.09-10.25.18:388][839]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.12.09-10.25.18:398][839]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.12.09-10.25.18:398][839]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.12.09-10.25.18:398][839]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.12.09-10.25.18:398][839]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.12.09-10.25.18:417][839]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.12.09-10.25.18:433][839]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.12.09-10.25.18:448][839]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.12.09-10.25.18:448][839]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.12.09-10.25.18:459][839]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.12.09-10.25.18:474][839]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.12.09-10.25.18:476][839]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.12.09-10.25.18:489][839]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.09-10.25.18:489][839]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.12.09-10.25.18:489][839]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.12.09-10.25.18:507][839]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.12.09-10.25.18:521][839]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.12.09-10.25.18:544][839]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.12.09-10.25.18:550][839]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.12.09-10.25.18:550][839]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.12.09-10.25.18:550][839]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.12.09-10.25.18:573][839]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.12.09-10.25.18:573][839]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.12.09-10.25.18:573][839]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.12.09-10.25.18:573][839]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.12.09-10.25.18:589][839]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.12.09-10.25.18:604][839]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.12.09-10.25.18:604][839]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.12.09-10.25.18:634][839]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.12.09-10.25.18:644][839]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.12.09-10.25.18:673][839]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.12.09-10.25.18:673][839]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.12.09-10.25.18:681][839]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.12.09-10.25.18:736][839]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.12.09-10.25.18:794][839]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.12.09-10.25.18:794][839]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.12.09-10.25.18:821][839]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.12.09-10.25.18:821][839]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.09-10.25.18:824][839]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.12.09-10.25.18:833][839]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.12.09-10.25.18:833][839]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.12.09-10.25.18:833][839]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.12.09-10.25.18:833][839]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.12.09-10.25.18:833][839]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.12.09-10.25.18:833][839]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.12.09-10.25.18:833][839]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.09-10.25.18:833][839]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.09-10.25.18:848][839]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.09-10.25.18:855][839]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.09-10.25.18:855][839]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.12.09-10.25.18:869][839]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.09-10.25.18:888][839]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.12.09-10.25.18:888][839]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.12.09-10.25.18:908][839]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.12.09-10.25.18:918][839]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.12.09-10.25.18:919][839]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.12.09-10.25.18:984][839]LogDerivedDataCache: Shutdown
+[2019.12.09-10.25.18:984][839]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.12.09-10.25.18:984][839]LogXGEController: Cleaning working directory: C:/Users/Playtech/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.09-10.25.19:012][839]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.12.09-10.25.19:012][839]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.12.09-10.25.19:026][839]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.12.09-10.25.19:035][839]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.12.09-10.25.19:046][839]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.12.09-10.25.19:046][839]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.12.09-10.25.19:064][839]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.12.09-10.25.19:064][839]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.12.09-10.25.19:064][839]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.12.09-10.25.19:074][839]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.12.09-10.25.19:075][839]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.12.09-10.25.19:075][839]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.12.09-10.25.19:075][839]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.12.09-10.25.19:075][839]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.12.09-10.25.19:075][839]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.12.09-10.25.19:075][839]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.12.09-10.25.19:075][839]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.12.09-10.25.19:075][839]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.12.09-10.25.19:075][839]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.12.09-10.25.19:075][839]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.12.09-10.25.19:089][839]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.12.09-10.25.19:098][839]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.12.09-10.25.19:121][839]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.12.09-10.25.19:121][839]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.12.09-10.25.19:138][839]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.12.09-10.25.19:138][839]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.12.09-10.25.19:189][839]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.12.09-10.25.19:190][839]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.12.09-10.25.19:190][839]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.12.09-10.25.19:190][839]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.12.09-10.25.19:190][839]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.12.09-10.25.19:206][839]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.12.09-10.25.19:220][839]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.12.09-10.25.19:274][839]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.12.09-10.25.19:278][839]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.09-10.25.19:278][839]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B532F7788-45FD-7E4B-6E1A-3A99FFE1C64E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=145f833045c6f7429ee396a22bcbc959%7C23b20b4a10a64f46b806d12fbc138b5a%7C568a5d13-4d2d-44b2-b03f-ef5b665b5098&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.09-10.25.19:306][839]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.12.09-10.25.19:316][839]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.12.09-10.25.19:316][839]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.12.09-10.25.19:316][839]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.12.09-10.25.19:316][839]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.12.09-10.25.19:316][839]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.12.09-10.25.19:316][839]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.12.09-10.25.19:316][839]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.12.09-10.25.19:316][839]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.12.09-10.25.19:316][839]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.12.09-10.25.19:316][839]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.09-10.25.19:316][839]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.12.09-10.25.19:316][839]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.12.09-10.25.19:369][839]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.12.09-10.25.19:369][839]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.12.09-10.25.19:389][839]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.12.09-10.25.19:395][839]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.12.09-10.25.19:395][839]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.12.09-10.25.19:395][839]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.12.09-10.25.19:404][839]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.12.09-10.25.19:412][839]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.12.09-10.25.19:412][839]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.12.09-10.25.19:425][839]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.12.09-10.25.19:425][839]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.12.09-10.25.19:425][839]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.12.09-10.25.19:425][839]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.12.09-10.25.19:425][839]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.12.09-10.25.19:425][839]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.12.09-10.25.19:434][839]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.12.09-10.25.19:434][839]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.12.09-10.25.19:476][839]LogExit: Exiting.
+[2019.12.09-10.25.19:510][839]Log file closed, 12/09/19 23:25:19
