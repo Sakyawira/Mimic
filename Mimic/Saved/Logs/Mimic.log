@@ -7565,3 +7565,23 @@ LogInit: Object subsystem initialized
 [2019.12.12-10.20.07:213][379]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
 [2019.12.12-10.20.08:679][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1blockpivot3)
 [2019.12.12-10.20.08:748][555]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.12-10.20.54:281][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chest)
+[2019.12.12-10.20.55:133][177]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.12-10.22.39:618][992]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.12-10.22.40:181][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-10.22.41:692][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-10.22.42:945][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-10.22.42:949][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/lambert1" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/lambert1.uasset" SILENT=true
+[2019.12.12-10.22.43:057][342]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/lambert1F89F924542F5E7F1FCDEF2B49A33BFCC.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/lambert1.uasset'
+[2019.12.12-10.22.43:253][342]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/1x2combined32137DDA47941AF74C26A79B659AB061.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/1x2combined.uasset'
+[2019.12.12-10.22.43:264][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/pillars/lambert1" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/lambert1.uasset" SILENT=true
+[2019.12.12-10.22.43:435][342]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/lambert198273A014A6E720AE3EEE38856E39937.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/lambert1.uasset'
+[2019.12.12-10.22.43:450][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/pillars/pillarmid" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/pillarmid.uasset" SILENT=true
+[2019.12.12-10.22.43:580][342]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/pillarmid539A304940005C1F698DF0AA9107FEC4.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/pillarmid.uasset'
+[2019.12.12-10.22.43:760][342]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/pillartallB255BC8A46DB56E69BB0EC8D0FBA6CBD.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/pillars/pillartall.uasset'
+[2019.12.12-10.22.43:940][342]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/lambert190DEEB824D9720F64ED2E392AA55434B.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/walls/parapet/lambert1.uasset'
+[2019.12.12-10.22.43:952][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/door/lambert1" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/door/lambert1.uasset" SILENT=true
+[2019.12.12-10.22.44:116][342]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/lambert16733ECE8431D2AEB5809CB83C81A3C90.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/door/lambert1.uasset'
+[2019.12.12-10.22.44:127][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Enviro/1x1blockpivot" FILE="F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/1x1blockpivot.uasset" SILENT=true
+[2019.12.12-10.22.44:241][342]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/1x1blockpivot81E466F049593ACFB74CB5990EBBB979.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/1x1blockpivot.uasset'
+[2019.12.12-10.22.44:349][342]LogSavePackage: Moving 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Saved/ground_tile_dirtEDB41F734F53080BD2D82EBDB689FD5C.tmp' to 'F:/-- Personal/--- Mimic/MimicProject/Mimic/Mimic/Content/TopDownBP/Assets/Enviro/ground/ground_tile_dirt.uasset'
